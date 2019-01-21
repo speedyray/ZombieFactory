@@ -2,16 +2,18 @@
 > Coding smart contracts in Solidity!
 
 ## Table of contents
-* [Solidity Mappings and Addresses](#sol_mapping)
-* [Msg.sender](#msg.sender)
-* [Require](#require)
-* [Setup](#setup)
-* [Inheritance](#inheritance)
-* [Import](#import)
-* [Storage and Memory](#storage_memory)
-* [Function Visibility](#function_visibility)
-* [Using an Interface](#interface)
-* [Multiple Return Values](#return_values)
+* [Contracts](#contracts)
+* [State Variables and Integers](#integers)
+* [Math Operations](#maths)
+* [Structs](#structsp)
+* [Arrays](#arrays)
+* [Function Declarations](#function)
+* [Structs and Arrays](#structs and arrays)
+* [Private/Public Functions](#functions)
+* [More Functions](#functions)
+* [Keccac256 and Typecasting](#types)
+* [Events](#events)
+* [Web3.js](#web3js)
 * [Contact](#contact)
 
 ## General info
