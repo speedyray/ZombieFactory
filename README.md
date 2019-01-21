@@ -8,7 +8,7 @@
 * [Structs](#structsp)
 * [Arrays](#arrays)
 * [Function Declarations](#function)
-* [Structs and Arrays](#structs and arrays)
+* [Structs and Arrays](#structs_arrays)
 * [Private/Public Functions](#functions)
 * [More Functions](#functions)
 * [Keccac256 and Typecasting](#types)
